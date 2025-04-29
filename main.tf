@@ -224,3 +224,4 @@ output "alb_zone_id" {
 # modules/ecs/variables.tf
 variable "region" {}
 variable "environment" {}
+
